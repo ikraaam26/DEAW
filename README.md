@@ -1,4 +1,6 @@
-Repositorio para la práctica
+# Despliegue de aplicaciones web
+
+Repositorio para la tarea 2 del tema 6
 
 | NOMBRE      | GITHUB                |
 |------------|----------------------|
